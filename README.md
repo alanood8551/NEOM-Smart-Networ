@@ -1,4 +1,4 @@
-# NEOM-Smart-Networ
+# NEOM-Smart-Network
 # NEOM Smart Network
 
 ### Project Overview
